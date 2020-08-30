@@ -1,0 +1,12 @@
+.nav-item.active {
+  color: blue !important;
+  border-bottom: 1px solid blue !important ;
+}
+
+.nav-item .nav-link {
+  color: gray !important;
+}
+
+.nav-item.active .nav-link {
+  color: blue !important;
+}
